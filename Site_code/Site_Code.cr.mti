@@ -1,0 +1,71 @@
+C:/modeltech64_10.6d/examples/Site_code/position_decoder.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/Site_code/position_decoder.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module position_decoder
+
+Top level modules:
+	position_decoder
+
+} {} {}} C:/modeltech64_10.6d/examples/Site_code/nospace_detector.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/Site_code/nospace_detector.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module nospace_detector
+
+Top level modules:
+	nospace_detector
+
+} {} {}} C:/modeltech64_10.6d/examples/Site_code/tic_tac_toe_game.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/Site_code/tic_tac_toe_game.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tic_tac_toe_game
+
+Top level modules:
+	tic_tac_toe_game
+
+} {} {}} C:/modeltech64_10.6d/examples/Site_code/winner_detector.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/Site_code/winner_detector.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module winner_detector
+
+Top level modules:
+	winner_detector
+
+} {} {}} C:/modeltech64_10.6d/examples/Site_code/illegal_move_detector.sv {1 {vlog -work work -vopt -sv -stats=none C:/modeltech64_10.6d/examples/Site_code/illegal_move_detector.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module illegal_move_detector
+
+Top level modules:
+	illegal_move_detector
+
+} {} {}} C:/modeltech64_10.6d/examples/Site_code/position_registers.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/Site_code/position_registers.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module position_registers
+
+Top level modules:
+	position_registers
+
+} {} {}} C:/modeltech64_10.6d/examples/Site_code/TestBench.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/Site_code/TestBench.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_tic_tac_toe
+
+Top level modules:
+	tb_tic_tac_toe
+
+} {} {}} C:/modeltech64_10.6d/examples/Site_code/Testbench1.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/Site_code/Testbench1.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_tic_tac_toe
+
+Top level modules:
+	tb_tic_tac_toe
+
+} {} {}} C:/modeltech64_10.6d/examples/Site_code/winner_detect_3.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/Site_code/winner_detect_3.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module winner_detect_3
+
+Top level modules:
+	winner_detect_3
+
+} {} {}} C:/modeltech64_10.6d/examples/Site_code/fsm_controller.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_10.6d/examples/Site_code/fsm_controller.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module fsm_controller
+
+Top level modules:
+	fsm_controller
+
+} {} {}}

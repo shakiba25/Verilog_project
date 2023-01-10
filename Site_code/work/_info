@@ -1,0 +1,203 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6d/examples
+T_opt
+!s110 1673386985
+V?i@h>ESW=>Qi0MOY4_3N12
+04 15 4 work winner_detector fast 0
+=1-b40edef67c5a-63bddbe9-3c-3014
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+R0
+vfsm_controller
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Dm6z>U`CR;QLJB9Qcz>L^2
+I3ZmQ9Ib0=jK<_Wag2c:gD0
+Z3 dC:/modeltech64_10.6d/examples/Site_code
+Z4 w1673386798
+8C:/modeltech64_10.6d/examples/Site_code/fsm_controller.v
+FC:/modeltech64_10.6d/examples/Site_code/fsm_controller.v
+L0 1
+Z5 OL;L;10.6d;65
+Z6 !s108 1673386870.000000
+!s107 C:/modeltech64_10.6d/examples/Site_code/fsm_controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/Site_code/fsm_controller.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+villegal_move_detector
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 LmR4JA7>2OMX<==_RFQW12
+I98VRd_>j84M22H]03<09U2
+!s105 illegal_move_detector_sv_unit
+S1
+R3
+R4
+8C:/modeltech64_10.6d/examples/Site_code/illegal_move_detector.sv
+FC:/modeltech64_10.6d/examples/Site_code/illegal_move_detector.sv
+L0 2
+R5
+R6
+!s107 C:/modeltech64_10.6d/examples/Site_code/illegal_move_detector.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/modeltech64_10.6d/examples/Site_code/illegal_move_detector.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vnospace_detector
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 `B4l99mmLZAjD`8OX0lkC2
+ITXPBU@:ZJ<X9ONL40`?Ua3
+R3
+R4
+8C:/modeltech64_10.6d/examples/Site_code/nospace_detector.v
+FC:/modeltech64_10.6d/examples/Site_code/nospace_detector.v
+L0 2
+R5
+R6
+!s107 C:/modeltech64_10.6d/examples/Site_code/nospace_detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/Site_code/nospace_detector.v|
+!i113 0
+R7
+R1
+vposition_decoder
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 j?CmXfhU55DXB63LTcVRc2
+IR<FG]<QJ4M3GgMKP<[dn63
+R3
+Z8 w1673386797
+8C:/modeltech64_10.6d/examples/Site_code/position_decoder.v
+FC:/modeltech64_10.6d/examples/Site_code/position_decoder.v
+L0 2
+R5
+R6
+!s107 C:/modeltech64_10.6d/examples/Site_code/position_decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/Site_code/position_decoder.v|
+!i113 0
+R7
+R1
+vposition_registers
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 o@Yc3zeeiTN70U9nL?IRZ2
+IeXbXE<ce]7R`H`lHo83O]2
+R3
+Z9 w1673386799
+8C:/modeltech64_10.6d/examples/Site_code/position_registers.v
+FC:/modeltech64_10.6d/examples/Site_code/position_registers.v
+L0 2
+R5
+R6
+!s107 C:/modeltech64_10.6d/examples/Site_code/position_registers.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/Site_code/position_registers.v|
+!i113 0
+R7
+R1
+vtb_tic_tac_toe
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 UK8BfT5_=U;94@Xh^@[BX0
+I:aG;D?K:TG[BG[lzLGkLZ2
+R3
+w1673387164
+8C:/modeltech64_10.6d/examples/Site_code/Testbench1.v
+FC:/modeltech64_10.6d/examples/Site_code/Testbench1.v
+L0 6
+R5
+!s108 1673387218.000000
+!s107 C:/modeltech64_10.6d/examples/Site_code/Testbench1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/Site_code/Testbench1.v|
+!i113 0
+R7
+R1
+vtic_tac_toe_game
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 l5fJV62:RSF<L`FIXW@QE3
+IGSk3i;>:^k`GdRZAJW@9h2
+R3
+R9
+8C:/modeltech64_10.6d/examples/Site_code/tic_tac_toe_game.v
+FC:/modeltech64_10.6d/examples/Site_code/tic_tac_toe_game.v
+L0 2
+R5
+R6
+!s107 C:/modeltech64_10.6d/examples/Site_code/tic_tac_toe_game.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/Site_code/tic_tac_toe_game.v|
+!i113 0
+R7
+R1
+vwinner_detect_3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 <^@IFHH?fk@_WF`aQK2210
+I3WIUdfHVR=UX_SkQdl<B<3
+R3
+R8
+8C:/modeltech64_10.6d/examples/Site_code/winner_detect_3.v
+FC:/modeltech64_10.6d/examples/Site_code/winner_detect_3.v
+L0 1
+R5
+R6
+!s107 C:/modeltech64_10.6d/examples/Site_code/winner_detect_3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/Site_code/winner_detect_3.v|
+!i113 0
+R7
+R1
+vwinner_detector
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZcU3FGkX`fIeTnz;i7Ff<3
+I4ionH4UgZ<MI1J=<_68aP3
+R3
+R8
+8C:/modeltech64_10.6d/examples/Site_code/winner_detector.v
+FC:/modeltech64_10.6d/examples/Site_code/winner_detector.v
+L0 2
+R5
+R6
+!s107 C:/modeltech64_10.6d/examples/Site_code/winner_detector.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/modeltech64_10.6d/examples/Site_code/winner_detector.v|
+!i113 0
+R7
+R1
