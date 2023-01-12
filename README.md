@@ -1,1 +1,1 @@
-# Verilog_project
+# Tic-Tack-Toe Project
