@@ -1,0 +1,83 @@
+{C:/modeltech64_10.6d/examples/Tic toc toe/T_POS_DC.v} {2 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/T_POS_DC.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module T_POS_DC
+** Warning: C:/modeltech64_10.6d/examples/Tic toc toe/T_POS_DC.v(41): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	T_POS_DC
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/Pos_Decoder.v} {1 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/Pos_Decoder.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module position_decoder
+
+Top level modules:
+	position_decoder
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/TestBench.v} {1 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/TestBench.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_tic_tac_toe
+
+Top level modules:
+	tb_tic_tac_toe
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/Tic_Toc_Toe.v} {2 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/Tic_Toc_Toe.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tic_tac_toe_game
+** Warning: C:/modeltech64_10.6d/examples/Tic toc toe/Tic_Toc_Toe.v(72): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	tic_tac_toe_game
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/t_pos_register.v} {2 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/t_pos_register.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module t_pos_registr
+** Warning: C:/modeltech64_10.6d/examples/Tic toc toe/t_pos_register.v(48): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	t_pos_registr
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/fsm_controller.v} {1 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/fsm_controller.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module fsm_controller
+
+Top level modules:
+	fsm_controller
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/illegal_move_detector.v} {1 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/illegal_move_detector.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module illegal_move_detector
+
+Top level modules:
+	illegal_move_detector
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/winnner.v} {2 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/winnner.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module winner_detector
+** Warning: C:/modeltech64_10.6d/examples/Tic toc toe/winnner.v(115): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	winner_detector
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/T_POS_reg.v} {2 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/T_POS_reg.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module T_POS_REG
+** Warning: C:/modeltech64_10.6d/examples/Tic toc toe/T_POS_reg.v(47): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	T_POS_REG
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/pos_register.v} {1 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/pos_register.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module position_registers
+
+Top level modules:
+	position_registers
+
+} {} {}} {C:/modeltech64_10.6d/examples/Tic toc toe/nospace_detector.v} {1 {vlog -work work -vopt -stats=none {C:/modeltech64_10.6d/examples/Tic toc toe/nospace_detector.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module nospace_detector
+
+Top level modules:
+	nospace_detector
+
+} {} {}}
